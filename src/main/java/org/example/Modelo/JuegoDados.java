@@ -5,13 +5,13 @@ public class JuegoDados {
     private Dado dado2;
     private Calculadora calculadora;
 
-    public void Juego(){
+    public void Juego() {
         dado1 = new Dado();
         dado2 = new Dado();
         calculadora = new Calculadora();
     }
 
-    public String jugar(){
+    public String jugar() {
         dado1.lanzar();
         dado2.lanzar();
 
@@ -22,5 +22,5 @@ public class JuegoDados {
                 "\nSuma: " + suma +
                 "\nResultado: " + (suma == 7 ? "Ganaste" : "Perdiste. ");
 
-
+    }
 }
