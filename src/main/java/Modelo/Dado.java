@@ -1,4 +1,4 @@
-package org.example.Modelo;
+package Modelo;
 
 public class Dado {
     private int caraSuperior;
