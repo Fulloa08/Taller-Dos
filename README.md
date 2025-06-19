@@ -7,9 +7,11 @@ Finalmente se realizó el testing para comprobar la funcionalidad y todo dio pos
 Integrantes:
 
 1-Jorge Félix Román Montes de Oca
+
 2-Felipe Andrés Ulloa Chacón
 
 Errores y complicaciones:
 
 1-Debido a un error de software por parte del PC de un compañero, el trabao fue subido en porte solo por un integrante (Error: el github no abria por razon desconocida) y por consecuencia la documentacion del integrante Jorge Félix Román Montes de Oca resulta alterada en el repositorio
+
 2-Debido al apagón sufrido en el departamento, la imposibilidad de subir el trabajo al repositorio y la descarga de la bateria del PC del compañero encargado se atrasó la entrega del trabajo ligeramente pasado el tiempo de entrega (11:30 am)
